@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214908109636",
+    "project_id": "ggtime-14d8a",
+    "storage_bucket": "ggtime-14d8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214908109636:android:6d19421c6e621998498d11",
+        "android_client_info": {
+          "package_name": "project.ggtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOizgBcKQL-zTngdOJjaMGuwxG3ZYmho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
